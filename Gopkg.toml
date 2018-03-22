@@ -54,3 +54,5 @@
 
 [[constraint]]
   name = "golang.org/x/net"
+  branch = "master"
+  source = "github.com/golang/net"
